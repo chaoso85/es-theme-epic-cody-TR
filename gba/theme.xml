@@ -10,7 +10,7 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>NINTENDO gameboy</text>
+    <text>NINTENDO GameBoy</text>
 
   </text>
   <text name="sys_line2" extra="true">
@@ -18,10 +18,10 @@
 
 </text>
   <text name="shortdescription" extra="true">
-   <text>2001  ·  32-bit Handheld Console</text>
+   <text>2001  ·  32-bit El Konsolu</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Successor to the Game Boy Color. Market competitors at the time were the Neo Geo Pocket Color, Wonder Swan, GP32 and the N-Gage</text>
+   <text>Game Boy Color'ın halefi. O dönemde piyasadaki rakipleri Neo Geo Pocket Color, Wonder Swan, GP32 ve N-Gage idi.</text>
   </text>
  </view>
 </theme>

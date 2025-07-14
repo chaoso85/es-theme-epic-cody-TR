@@ -4,7 +4,7 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Options</text>
+    <text>Ayarlar</text>
   </text>
 </view>    
 
@@ -14,10 +14,10 @@
 
   </text> 
   <text name="shortdescription" extra="true">
-   <text>Front-End</text>
+   <text>Program Önyüzü</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>RetroArch is a frontend for emulators, game engines and media players</text>
+   <text>RetroArch, emülatörler, oyun motorları ve medya oynatıcılar için bir önyüzdür.</text>
   </text>
  </view>
 </theme>

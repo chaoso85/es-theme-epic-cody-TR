@@ -4,20 +4,20 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Options</text>
+    <text>Ayarlar</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Options</text>
+    <text>Ayarlar</text>
 
   </text> 
   <text name="shortdescription" extra="true">
-   <text>System Configuration</text>
+   <text>Sistem Yapılandırması</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Configure System hardware, Bluetooth & Wi-Fi connections. Install updates, addons and visual themes</text>
+   <text>Sistem donanımını, Bluetooth ve Wi-Fi bağlantılarını yapılandırın. Güncellemeleri, eklentileri ve görsel temaları yükleyin.</text>
   </text>
  </view>
 </theme>

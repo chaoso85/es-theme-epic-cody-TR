@@ -4,7 +4,7 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Famicom Disk System</text>
+    <text>Famicom Disk Sistemi</text>
   </text>
 </view>    
 
@@ -14,14 +14,14 @@
 
   </text>
   <text name="sys_line2" extra="true">
-    <text>System</text>
+    <text>Sistemi</text>
 
 </text>
   <text name="shortdescription" extra="true">
-   <text>1986  ·  8-bit Console</text>
+   <text>1986  ·  8-bit Konsol</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Family Computer is a peripheral for Nintendo's Family Computer home video game console, released only in Japan</text>
+   <text>Family Computer, Nintendo'nun Family Computer ev video oyun konsolu için yalnızca Japonya'da piyasaya sürdüğü bir çevre birimidir.</text>
   </text>
  </view>
 </theme>

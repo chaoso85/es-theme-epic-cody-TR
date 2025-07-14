@@ -11,14 +11,14 @@
 <view name="system">
 
   <text name="sys_line2" extra="true">
-    <text>PSP Minis</text>
+    <text>PSP Mini Oyunları</text>
 
 </text>
   <text name="shortdescription" extra="true">
-   <text>2004  ·  32-bit Handheld Console</text>
+   <text>2004  ·  32-bit El Konsolu</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Sony's first handheld, it was also the first real competition to Nintendo handhelds since the Game Gear</text>
+   <text>Sony'nin ilk el konsolu, aynı zamanda Game Gear'dan bu yana Nintendo el konsollarına karşı ilk gerçek rekabeti temsil ediyordu.</text>
   </text>
  </view>
 </theme>

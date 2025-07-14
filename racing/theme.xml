@@ -4,23 +4,23 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Racing Genre</text>
+    <text>Yarış Oyunları</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Racing</text>
+    <text>Yarış</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
     <pos>0.12 0.130</pos>
     <size>0 0</size>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>Game Genre</text>
+   <text>Oyun Türü</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>In racing games the player partakes in competitions with any type of land, water, air or space vehicles, either real or fictional</text>
+   <text>Yarış oyunlarında oyuncu, gerçek veya kurgusal her türlü kara, su, hava veya uzay aracıyla yarışmalara katılır.</text>
   </text>
  </view>
 </theme>

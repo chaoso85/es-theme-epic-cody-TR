@@ -4,23 +4,23 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Adventure Genre</text>
+    <text>Macera Türü</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Adventure</text>
+    <text>Macera</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
     <pos>0.12 0.130</pos>
     <size>0 0</size>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>Game Genre</text>
+   <text>Oyun Kategorisi</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>In an adventure game the player follows an interactive story, driven by exploration and puzzle-solving</text>
+   <text>Bir macera oyununda oyuncu, keşif ve bulmaca çözme yoluyla ilerleyen etkileşimli bir hikayeyi takip eder.</text>
   </text>
  </view>
 </theme>

@@ -13,10 +13,10 @@
     <text>Atari 800</text>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>1979  ·  8-bit Computer</text>
+   <text>1979  ·  8-bit Bilgisayar</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Atari 8-bit family is a series of 8-bit home computers. All of the machines in the family are technically similar and differ primarily in packaging</text>
+   <text>Atari 8-bit ailesi, 8-bit ev bilgisayarlarından oluşan bir seridir. Ailedeki tüm makineler teknik olarak benzerdir ve temel olarak paketleme açısından farklılık gösterir.</text>
   </text>
  </view>
 </theme>

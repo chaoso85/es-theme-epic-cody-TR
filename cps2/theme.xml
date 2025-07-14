@@ -10,18 +10,18 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>CAPCOM PLAY</text>
+    <text>CAPCOM OYUN</text>
 
   </text>
   <text name="sys_line2" extra="true">
-    <text>SYSTEM II</text>
+    <text>SİSTEM II</text>
 
 </text>
   <text name="shortdescription" extra="true">
-   <text>1993  ·  Arcade Board</text>
+   <text>1993  ·  Arcade Sistemi</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Arcade board that Capcom first used for Super Street Fighter II. It was the successor to their previous CPS.</text>
+   <text>Capcom'un ilk olarak Super Street Fighter II için kullandığı arcade oyun kartı. Önceki CPS'lerin halefiydi.</text>
   </text>
  </view>
 </theme>

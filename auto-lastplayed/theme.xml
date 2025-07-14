@@ -4,20 +4,20 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Last Played</text>
+    <text>Son Oynananlar</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Last Played</text>
+    <text>Son Oynananlar</text>
 
   </text>  
   <text name="shortdescription" extra="true">
-   <text>All Consoles / Handhelds</text>
+   <text>Tüm El ve Ev Konsolları</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Access and quickly play recently played games across the entire library</text>
+   <text>En son oynadığınız oyunlara hızlıca erişin</text>
   </text>
  </view>
 </theme>

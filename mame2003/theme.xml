@@ -10,7 +10,7 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Multiple Arcade Machine Emulator</text>
+    <text>Çoklu Atari Makinesi Emülasyonu</text>
 
   </text>
   <text name="sys_line2" extra="true">
@@ -18,10 +18,10 @@
 
 </text>
   <text name="shortdescription" extra="true">
-   <text>Coin Operated Cabinet</text>
+   <text>Jetonlu Oyun Makineleri</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Coin-operated entertainment machines. The golden age is defined as a period between the late 1970s and ending in the mid-1980s</text>
+   <text>Jetonlu eğlence makineleri. Altın çağ, 1970'lerin sonlarından 1980'lerin ortalarına kadar olan dönemi kapsar.</text>
   </text>
  </view>
 </theme>

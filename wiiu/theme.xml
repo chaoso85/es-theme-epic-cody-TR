@@ -4,7 +4,7 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Nintendo WiiU</text>
+    <text>Nintendo Wii U</text>
   </text>
 </view>    
 
@@ -14,14 +14,14 @@
 
   </text>
   <text name="sys_line2" extra="true">
-    <text>WiiU</text>
+    <text>Wii U</text>
 
 </text>
   <text name="shortdescription" extra="true">
-   <text>2012  ·  Handheld Console</text>
+   <text>2012  ·  El-Ev Konsolu</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Successor to the Wii and the first eighth-gen video game console, as it competed with Microsoft's Xbox One and Sony's PS4.</text>
+   <text>Wii'nin halefi ve ilk sekizinci nesil video oyun konsolu olan bu konsol, Microsoft'un Xbox One ve Sony'nin PS4'üyle rekabet etti(edemedi).</text>
   </text>
  </view>
 </theme>

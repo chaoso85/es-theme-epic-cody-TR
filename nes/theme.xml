@@ -10,18 +10,18 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Nintendo Entertainment</text>
+    <text>Nintendo Eğlence</text>
 
   </text>
   <text name="sys_line2" extra="true">
-    <text>System</text>
+    <text>Sistemi</text>
 
 </text>
   <text name="shortdescription" extra="true">
-   <text>1983  ·  8-bit Console</text>
+   <text>1983  ·  8-bit Konsol</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The best selling gaming console of its time, the NES helped revitalize the US video game industry following the video game crash of 1983</text>
+   <text>Zamanının en çok satan oyun konsolu olan NES, 1983'teki video oyunu krizinin ardından ABD'deki video oyunu sektörünün yeniden canlanmasına yardımcı oldu.</text>
   </text>
  </view>
 </theme>

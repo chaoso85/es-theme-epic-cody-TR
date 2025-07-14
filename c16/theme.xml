@@ -14,10 +14,10 @@
 
   </text>    
   <text name="shortdescription" extra="true">
-   <text>1984  ·  16-bit Computer</text>
+   <text>1984  ·  16-bit Bilgisayar</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>home computer made by Commodore International,intended to be an entry-level computer to replace the VIC-20</text>
+   <text>Commodore International tarafından üretilen, VIC-20'nin yerini alacak giriş seviyesi bir bilgisayar olması amaçlanan ev bilgisayarı.</text>
   </text>
  </view>
 </theme>

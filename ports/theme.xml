@@ -4,20 +4,20 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Ports</text>
+    <text>Portmaster</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Ports</text>
+    <text>Portmaster yazılımı sayesinde çalıştırılan Oyunlar</text>
 
   </text>    
   <text name="shortdescription" extra="true">
-   <text>Software</text>
+   <text>Yazılım</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Multi-platform ports of software and game engines from PC to DOS </text>
+   <text>DOS'tan PC'ye çeşitli yazılımların ve oyun motorlarını bu cihazda çalışmasını sağlayan yazılım.</text>
   </text>
  </view>
 </theme>

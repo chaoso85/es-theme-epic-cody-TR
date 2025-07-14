@@ -14,10 +14,10 @@
 
   </text>    
   <text name="shortdescription" extra="true">
-   <text>Laserdisc Console</text>
+   <text>Lazrdisk tabanlı Ev Konsolu</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Converged device and home video game console capable of playing Laserdiscs, Compact Discs, console games, and LD-G karaoke discs</text>
+   <text>Lazerdiskleri, Kompakt Diskleri(CD), konsol oyunlarını ve LD-G karaoke disklerini oynatabilen birleşik cihaz ve ev video oyun konsolu</text>
   </text>
  </view>
 </theme>

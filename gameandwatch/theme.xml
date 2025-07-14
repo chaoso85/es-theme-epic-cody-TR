@@ -4,23 +4,23 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Game & Watch</text>
+    <text>Nintendo Game & Watch</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>LCD SCREEN</text>
+    <text>LCD EKRAN</text>
  </text>
   <text name="sys_line2" extra="true">
     <text>Game & Watch</text>
 
   </text> 
   <text name="shortdescription" extra="true">
-   <text>Handheld Electronic Games</text>
+   <text>El Konsolu</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Line of handheld electronic games produced by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi</text>
+   <text>Nintendo'nun 1980'den 1991'e kadar ürettiği taşınabilir elektronik oyun serisi. Oyun tasarımcısı Gunpei Yokoi tarafından yaratıldı.</text>
   </text>
  </view>
 </theme>

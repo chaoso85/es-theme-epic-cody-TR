@@ -13,10 +13,10 @@
     <text>Atari ST</text>
   </text>  
   <text name="shortdescription" extra="true">
-   <text>1985  ·  16-bit Computer</text>
+   <text>1985  ·  16-bit Bilgisayar</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Atari ST is a line of home computers from Atari Corporation and the successor to the Atari 8-bit family</text>
+   <text>Atari ST, Atari Corporation'ın ev bilgisayarı serisidir ve Atari 8-bit ailesinin devamıdır.</text>
   </text>
  </view>
 </theme>

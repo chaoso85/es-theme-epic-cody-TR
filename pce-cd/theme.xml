@@ -17,10 +17,10 @@
     <size>0 0</size>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>1988  ·  16-bit Console</text>
+   <text>1988  ·  16-bit Konsol</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Add-on attachment for the PC Engine. The add-on allows core versions of the console to play PC Engine games in CD-ROM format</text>
+   <text>PC Engine için eklenti ürünü. Bu eklenti, konsolun temel sürümlerinin PC Engine oyunlarını CD-ROM formatında oynamasına olanak tanır.</text>
   </text>
  </view>
 </theme>

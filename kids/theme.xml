@@ -4,23 +4,23 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Kids Genre</text>
+    <text>Çocuk Kategorisi</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Kids</text>
+    <text>Çocuk</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
     <pos>0.12 0.130</pos>
     <size>0 0</size>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>Game Genre</text>
+   <text>Oyun Türü</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>A kids-friendly game may include minimal cartoon or fantasy violence, and infrequent mild language</text>
+   <text>Çocuklara uygun bir oyun, minimum düzeyde çizilmiş veya fantastik şiddet, ve nadiren hafif küfür içerebilir.</text>
   </text>
  </view>
 </theme>

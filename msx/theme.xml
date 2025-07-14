@@ -14,10 +14,10 @@
 
   </text> 
   <text name="shortdescription" extra="true">
-   <text>1983  ·  8-bit Computer</text>
+   <text>1983  ·  8-bit Bilgisayar</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>MSX is a standardized home computer architecture, conceived as an attempt to create unified standards among various hardware makers</text>
+   <text>MSX, çeşitli donanım üreticileri arasında birleşik standartlar oluşturma girişimi olarak tasarlanan standartlaştırılmış bir ev bilgisayarı mimarisidir.</text>
   </text>
  </view>
 </theme>

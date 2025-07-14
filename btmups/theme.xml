@@ -4,20 +4,20 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Beat 'em Up Genre</text>
+    <text>Beat 'em Up Kategorisi</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Beat 'em Up</text>
+    <text>Vur Kır Parçala</text>
 
   </text>  
   <text name="shortdescription" extra="true">
-   <text>Game Genre</text>
+   <text>Oyun Kategorisi</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Beat 'em up (also known as brawler) feature hand-to-hand or weapon combat between the protagonist and an improbably large number of opponents</text>
+   <text>Beat 'em up (Dövüş Oyunları), oyuncu ile çok sayıda rakip arasında göğüs göğüse veya silahlı mücadeleyi konu alır.</text>
   </text>
  </view>
 </theme>

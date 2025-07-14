@@ -13,10 +13,10 @@
     <text>Atari 2600</text>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>1977  ·  8-bit Console</text>
+   <text>1977  ·  8-bit Konsol</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Atari 2600 is credited with popularizing the use of microprocessor-based hardware and ROM cartridges containing game code</text>
+   <text>Atari 2600, mikroişlemci tabanlı donanımların ve oyun kodlarını içeren ROM kartuşlarının kullanımını yaygınlaştıran cihaz olarak kabul edilir.</text>
   </text>
  </view>
 </theme>

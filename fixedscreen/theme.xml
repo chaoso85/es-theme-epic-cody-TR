@@ -4,23 +4,23 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Fixed Screen Genre</text>
+    <text>Sabit Ekran Kategorisi</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Fixed Screen</text>
+    <text>Sabit Ekran</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
     <pos>0.12 0.130</pos>
     <size>0 0</size>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>Game Genre</text>
+   <text>Oyun Türü</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>A fixed or single screen perspective applies to all video games in which the entire playfield is shown on the screen</text>
+   <text>Sabit veya tek ekran perspektifi, tüm oyun alanının ekranda gösterildiği video oyunları için geçerlidir.</text>
   </text>
  </view>
 </theme>

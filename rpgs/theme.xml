@@ -4,23 +4,23 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Role Playing Genre</text>
+    <text>RPG Kategorisi</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Role Playing</text>
+    <text>Rol Yapma Oyunları</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
     <pos>0.12 0.130</pos>
     <size>0 0</size>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>Game Genre</text>
+   <text>Oyun Türü</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>In a role-playing game, the player controls the actions of one or several characters, immersed in an often fantastical world</text>
+   <text>Rol yapma oyunlarında, oyuncu genellikle fantastik bir dünyaya dalmış bir veya birkaç karakterin hareketlerini kontrol eder.</text>
   </text>
  </view>
 </theme>
