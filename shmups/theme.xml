@@ -4,7 +4,7 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Shoot 'em Up Genre</text>
+    <text>Nişan al, Ateş Kategorisi</text>
   </text>
 </view>    
 
@@ -13,13 +13,13 @@
     <text>shoot'em up</text>
   </text>
   <text name="sys_line2" extra="true">
-    <text>SHMUPS</text>
+    <text>Nişan Al, Ateş</text>
 </text>  
   <text name="shortdescription" extra="true">
-   <text>Game Genre</text>
+   <text>Oyun Türü</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>In a shoot 'em up, the player shoots large numbers of enemies while dodging obstacles, often in a spacecraft or aircraft</text>
+   <text>Bir shoot 'em up oyununda, oyuncu engellerden kaçarken çok sayıda düşmanı vurur, bu engeller genellikle bir uzay aracında veya uçakta bulunur.</text>
   </text>
  </view>
 </theme>

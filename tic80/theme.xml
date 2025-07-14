@@ -14,10 +14,10 @@
 
   </text>   
   <text name="shortdescription" extra="true">
-   <text>2017  ·  16-bit Fantasy Computer</text>
+   <text>2017  ·  16-bit Fantezi Bilgisayarı</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>TIC-80 is a fantasy computer for making, playing and sharing tiny games.</text>
+   <text>TIC-80, küçük oyunlar yapmak, oynamak ve paylaşmak için tasarlanmış bir fantezi bilgisayarıdır.</text>
   </text>
  </view>
 </theme>

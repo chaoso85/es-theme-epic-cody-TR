@@ -10,17 +10,17 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>open source</text>
+    <text>Açık Kaynak</text>
  </text>
   <text name="sys_line2" extra="true">
     <text>UZEBOX</text>
 
   </text>    
   <text name="shortdescription" extra="true">
-   <text>2007  ·  8-bit Console</text>
+   <text>2007  ·  8-bit Konsol</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Uzebox is an open source, retro-minimalist game console design. It is based on an AVR 8-bit general purpose microcontroller made by Atmel.</text>
+   <text>Uzebox, açık kaynaklı, retro-minimalist bir oyun konsolu tasarımıdır. Atmel tarafından üretilen AVR 8-bit genel amaçlı bir mikrodenetleyiciye dayanmaktadır.</text>
   </text>
  </view>
 </theme>

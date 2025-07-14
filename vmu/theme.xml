@@ -4,13 +4,13 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Visual Memory Unit</text>
+    <text>Dreamcast Görsel Bellek Birimi</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Dreamcast Visual Memory Unit</text>
+    <text>Dreamcast Görsel Bellek Birimi</text>
  </text>
   <text name="sys_line2" extra="true">
     <text>SEGA VMU</text>
@@ -19,7 +19,7 @@
    <text>1998  ·  8-bit Sanyo LC8670</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The VMU is the primary memory card produced by Sega for the Dreamcast home video game console. The device features a monochrome liquid crystal display (LCD)</text>
+   <text>VMU, Sega'nın Dreamcast ev video oyun konsolu için ürettiği birincil hafıza kartıdır. Cihaz, tek renkli sıvı kristal ekrana (LCD) sahiptir.</text>
   </text>
  </view>
 </theme>

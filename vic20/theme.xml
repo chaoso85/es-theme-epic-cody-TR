@@ -14,10 +14,10 @@
 
   </text>    
   <text name="shortdescription" extra="true">
-   <text>1980  ·  8-bit Computer</text>
+   <text>1980  ·  8-bit Bilgisayar</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The VIC-20 was the first computer of any description to sell one million units.</text>
+   <text>VIC-20, bir milyon adet satan ilk bilgisayar olmuştu.</text>
   </text>
  </view>
 </theme>

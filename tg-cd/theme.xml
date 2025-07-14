@@ -17,10 +17,10 @@
     <size>0 0</size>
   </text>   
   <text name="shortdescription" extra="true">
-   <text>1990  ·  16-bit Console</text>
+   <text>1990  ·  16-bit Konsol</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Add-on attachment for the TurboGrafx-16. The add-on allows core versions of the console to play TurboGrafx-16 games in CD-ROM format</text>
+   <text>TurboGrafx-16 için eklenti. Eklenti, konsolun temel sürümlerinin TurboGrafx-16 oyunlarını CD-ROM formatında oynamasına olanak tanır.</text>
   </text>
  </view>
 </theme>
